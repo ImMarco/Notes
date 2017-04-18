@@ -38,6 +38,7 @@ Socket是对TCP/IP协议的封装，Socket本身并不是协议而是一个调�
 
 #### 四、DNS(Domain Name System)
 DNS服务是和HTTP协议一样位于应用层的协议，它提供域名到IP地址之间的解析服务（www.google.com与20X.189.1X3之间的相互转化的服务）。
+
 <img width = "460" height = "314" src = media/14909466245648/14923999985977.jpg>
 
 #### 五、HTTP请求过程
